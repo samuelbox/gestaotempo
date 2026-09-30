@@ -29,6 +29,26 @@ O sistema integra métodos clássicos de gestão de tempo à inteligência artif
 
 A arquitetura do **POS** funciona em três camadas complementares: **Priorização (Estratégica)**, **Alocação (Temporal)** e **Sincronização Automática (Operacional)**.
 
+
+[ E-mails / Estudos / Treinos ]
+                  │
+                  ▼
+        [ MATRIZ DE EISENHOWER ]
+     (Separação por Prioridades)
+                  │
+                  ▼
+       [ TIME BLOCKING (Calendar) ]
+   (Blocos Focados de 45 min / Pomodoro)
+                  │
+                  ▼
+ ┌─────────────────────────────────┐
+ │   AUTOMAÇÃO VIA N8N (WORKFLOW)  │
+ └─────────────────────────────────┘
+                  │
+                  ▼
+    [ CHECKLIST NO CARD DO TRELLO ]
+       (Por Dia da Semana no Kanban)
+       
 ## Prints 
 
 ### Visualização do Fluxo no n8n
